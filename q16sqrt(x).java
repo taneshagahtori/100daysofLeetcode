@@ -1,3 +1,5 @@
+//square of a number
+
 class Solution {
     public int mySqrt(int x) {
         int start=1;
