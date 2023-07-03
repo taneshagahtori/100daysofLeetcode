@@ -1,4 +1,4 @@
-//square of a number
+//square of a number.
 
 class Solution {
     public int mySqrt(int x) {
