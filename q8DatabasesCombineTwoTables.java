@@ -1,4 +1,4 @@
-# Write your MySQL query statement below for combining two tables
+# Write your MySQL query statement below for combining two tables.
 
 select firstName, lastName, city, state 
 from Person 
